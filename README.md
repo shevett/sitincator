@@ -2,6 +2,13 @@
 
 ![Sitincator](https://github.com/simplificator/sitincator/raw/gh-pages/images/sitincator.png)
 
+This is a fork from the [original Sitincator](https://github.com/simplificator/sitincator/) project.  As improvements are added, we are putting in pull requests to merge back into the master, but in the meantime, we're working on this fork.
+
+Features in this fork (completed vs planned)
+
+* [completed] Configurable textual display for the room name
+* [in progress] Regular Expression match against reservation name to allow for shared calendars
+* [in progress] Configurable clock display
 
 `Sitincator` is [Simplificator's](https://www.simplificator.com) meeting room display system. It consists of a React/Electron app running on a Raspberry Pi 3, which is connected to a touch screen display.
 
